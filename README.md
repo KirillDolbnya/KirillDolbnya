@@ -3,7 +3,6 @@
 My name is Kirill 👽.
 
 <br>
-<br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillDolbnya&show_icons=true&theme=dark)
 
