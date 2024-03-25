@@ -1,6 +1,6 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-My name is Kirill 👽.
+My name is Kirill <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pile%20of%20Poo.png" alt="Pile of Poo" width="25" height="25" />.
 
 **About me**
 
