@@ -17,3 +17,4 @@ My name is Kirill 👽.
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillDolbnya)](https://github.com/KirillDolbnya/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillDolbnya&show_icons=true&theme=radical)
