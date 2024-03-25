@@ -3,6 +3,4 @@
 My name is Kirill 👽.
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillDolbnya&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillDolbnya)](https://github.com/KirillDolbnya/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KirillDolbnya&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillDolbnya)](https://github.com/KirillDolbnya/github-readme-stats)
