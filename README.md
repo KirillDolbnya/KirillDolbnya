@@ -8,7 +8,7 @@ My name is Kirill <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik
 
 **My social networks**
 
-- <a href="">VK</a>
+- <a href="https://vk.com/kirilldolbya">VK</a>
 
 <br>
 
