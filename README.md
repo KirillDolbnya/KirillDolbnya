@@ -1,5 +1,7 @@
 <h1>Привет, я Кирилл — backend-инженер <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
+Специализируюсь на backend-разработке на **PHP (Laravel)**.
+Мой главный фокус — проектирование понятных **REST API** и написание серверной логики. Покрываю логику тестами, делаю упор на чистоту и читаемость кода.
 ---
 
 ### ⚙ Мой стек
