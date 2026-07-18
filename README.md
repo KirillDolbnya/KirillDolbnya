@@ -18,5 +18,5 @@
 
 ### 💬 Контакты
 
-* [![Telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/phpdeve)
-* [![Gmail](https://img.shields.io/badge/gmail-%23EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:kirilldolbnya6@gmail.com)
+![Telegram](https://img.shields.io/badge/telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/phpdeve)
+![Gmail](https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)(mailto:kirilldolbnya6@gmail.com)
